@@ -16,7 +16,7 @@ categories:
     name_en: "Enterprise AI Best Practices & Cases"
     name_zh: "企业AI应用最佳实践与案例"
     search_keywords: "AI enterprise implementation case study 2026"
-    items_count: 4
+    items_count: 5
 
   - id: "consulting_industry"
     name_en: "Engineering & Consulting Industry Updates"
@@ -28,7 +28,7 @@ categories:
     name_en: "AI Career & Professional Development"
     name_zh: "AI职业发展与个人提升"
     search_keywords: "AI career skills professional development 2026"
-    items_count: 4
+    items_count: 3
 
 # 搜索配置
 search:
