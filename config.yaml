@@ -1,0 +1,36 @@
+# AI新闻简报配置文件
+newsletter:
+  subject: "AI Weekly Newsletter - 人工智能周报"
+  recipient: "Lingjian.li84@gmail.com"
+  sender_name: "AI News Bot"
+
+# 新闻类别配置
+categories:
+  - id: "global_ai_trends"
+    name_en: "Global AI Frontier Trends"
+    name_zh: "全球AI最前沿动态"
+    search_keywords: "artificial intelligence breakthrough latest 2026"
+    items_count: 5
+
+  - id: "enterprise_applications"
+    name_en: "Enterprise AI Best Practices & Cases"
+    name_zh: "企业AI应用最佳实践与案例"
+    search_keywords: "AI enterprise implementation case study 2026"
+    items_count: 4
+
+  - id: "consulting_industry"
+    name_en: "Engineering & Consulting Industry Updates"
+    name_zh: "工程咨询行业AI动态"
+    search_keywords: "AI consulting engineering industry 2026"
+    items_count: 3
+
+  - id: "career_development"
+    name_en: "AI Career & Professional Development"
+    name_zh: "AI职业发展与个人提升"
+    search_keywords: "AI career skills professional development 2026"
+    items_count: 4
+
+# 搜索配置
+search:
+  results_per_category: 10  # 每个类别搜索结果数
+  max_retries: 3
