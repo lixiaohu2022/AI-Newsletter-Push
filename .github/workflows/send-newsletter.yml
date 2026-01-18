@@ -1,0 +1,45 @@
+name: Send AI Newsletter
+
+# 每周一上午9点（北京时间）触发，即UTC时间周一凌晨1点
+on:
+  schedule:
+    - cron: '0 1 * * 1'  # 每周一 UTC 01:00 = 北京时间 09:00
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  send-newsletter:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate and send newsletter
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          GMAIL_SENDER: ${{ secrets.GMAIL_SENDER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          python main.py
+
+      - name: Upload logs (if failed)
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: newsletter-logs
+          path: |
+            *.log
+            *.html
+          retention-days: 7
