@@ -111,10 +111,16 @@ class NewsFetcher:
 please select the top {num_items} most relevant and important articles.
 
 For each selected article, provide:
-1. A concise summary in English (2-3 sentences)
-2. A concise summary in Chinese (2-3句话)
+1. A detailed summary in English (5-7 sentences covering key points, context, and implications)
+2. A detailed summary in Chinese (5-7句话，涵盖要点、背景和影响)
 3. The original URL
-4. Why this article is significant
+4. Why this article is significant (2-3 sentences explaining the broader impact)
+
+Guidelines for summaries:
+- Include specific details, numbers, and key facts
+- Provide context and background information
+- Explain the implications and why it matters
+- Make it informative and valuable for professionals in the AI field
 
 Search Results:
 {articles_text}
@@ -124,9 +130,9 @@ Please respond in JSON format:
   {{
     "title": "Article title",
     "url": "Article URL",
-    "summary_en": "English summary",
-    "summary_zh": "中文摘要",
-    "significance": "Why this matters"
+    "summary_en": "Detailed English summary with specific facts and context",
+    "summary_zh": "详细的中文摘要，包含具体事实和背景",
+    "significance": "Why this matters and its broader implications"
   }},
   ...
 ]
@@ -136,7 +142,7 @@ Important: Return ONLY valid JSON array, no additional text."""
         try:
             message = self.client.messages.create(
                 model="claude-sonnet-4-20250514",
-                max_tokens=4000,
+                max_tokens=8000,
                 messages=[
                     {"role": "user", "content": prompt}
                 ]
