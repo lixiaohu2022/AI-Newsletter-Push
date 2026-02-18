@@ -14,6 +14,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
 
 from news_fetcher import NewsFetcher
 from email_sender import EmailSender
+from dedup import ArticleDeduplicator
 
 
 def load_config(config_file: str = 'config.yaml') -> dict:
@@ -40,10 +41,11 @@ def main():
         print(f"Error loading config: {e}")
         sys.exit(1)
 
-    # 初始化新闻获取器和邮件发送器
+    # 初始化新闻获取器、邮件发送器和去重器
     try:
         fetcher = NewsFetcher()
         sender = EmailSender()
+        deduplicator = ArticleDeduplicator()
     except Exception as e:
         print(f"Error initializing modules: {e}")
         sys.exit(1)
@@ -60,7 +62,7 @@ def main():
             print(f"   {category_config['name_zh']}")
             print(f"   Keywords: {category_config['search_keywords']}")
 
-            category_data = fetcher.fetch_category_news(category_config)
+            category_data = fetcher.fetch_category_news(category_config, deduplicator=deduplicator)
             all_categories.append(category_data)
 
             print(f"   ✅ Found {len(category_data['news_items'])} items")
@@ -102,6 +104,16 @@ def main():
     except Exception as e:
         print(f"\n❌ Error sending email: {e}")
         sys.exit(1)
+
+    # 保存去重历史（仅在邮件发送成功后）
+    print("\n" + "=" * 70)
+    print("STEP 3: Saving article history for deduplication")
+    print("=" * 70)
+
+    try:
+        deduplicator.save_history()
+    except Exception as e:
+        print(f"   Warning: Failed to save article history: {e}")
 
     # 完成
     print("\n" + "=" * 70)
