@@ -1,5 +1,118 @@
 {
   "version": 1,
-  "last_updated": null,
-  "articles": []
+  "last_updated": "2026-02-18T07:33:26.033229",
+  "articles": [
+    {
+      "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
+      "url_normalized": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026",
+      "title": "What's next in AI: 7 trends to watch in 2026 - Microsoft Source",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-02-18"
+    },
+    {
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "url_normalized": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "title": "The Latest AI News and AI Breakthroughs that Matter Most",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-02-18"
+    },
+    {
+      "url": "https://www.gesda.global/ai-in-2026-breakthrough-to-coordination/",
+      "url_normalized": "https://www.gesda.global/ai-in-2026-breakthrough-to-coordination",
+      "title": "AI in 2026: From Breakthrough to Coordination - GESDA Global",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-02-18"
+    },
+    {
+      "url": "https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html",
+      "url_normalized": "https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html",
+      "title": "6 AI breakthroughs that will define 2026 - InfoWorld",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-02-18"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+      "url_normalized": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026",
+      "title": "What's next for AI in 2026 | MIT Technology Review",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-02-18"
+    },
+    {
+      "url": "https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html",
+      "url_normalized": "https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html",
+      "title": "The State of AI in the Enterprise - 2026 AI report | Deloitte US",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-02-18"
+    },
+    {
+      "url": "https://www.cio.com/article/4122937/davos-from-hype-to-ai-transformation-in-the-economy.html",
+      "url_normalized": "https://www.cio.com/article/4122937/davos-from-hype-to-ai-transformation-in-the-economy.html",
+      "title": "WEF highlights 32 AI case studies with real-world business impact",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-02-18"
+    },
+    {
+      "url": "https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-predictions.html",
+      "url_normalized": "https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-predictions.html",
+      "title": "2026 AI Business Predictions - PwC",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-02-18"
+    },
+    {
+      "url": "https://rtslabs.com/enterprise-ai-roadmap/",
+      "url_normalized": "https://rtslabs.com/enterprise-ai-roadmap",
+      "title": "Enterprise AI Roadmap: The Complete 2026 Guide - RTS Labs",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-02-18"
+    },
+    {
+      "url": "https://codewave.com/insights/ai-enterprise-adoption-2026/",
+      "url_normalized": "https://codewave.com/insights/ai-enterprise-adoption-2026",
+      "title": "The State of AI Enterprise Adoption in 2026 - Codewave",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-02-18"
+    },
+    {
+      "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/software-industry-outlook.html",
+      "url_normalized": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/software-industry-outlook.html",
+      "title": "2026 Global Software Industry Outlook - Deloitte",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-02-18"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/ai-professional-services-predictions-2026-jason-spencer-jg5ye",
+      "url_normalized": "https://www.linkedin.com/pulse/ai-professional-services-predictions-2026-jason-spencer-jg5ye",
+      "title": "AI in Professional Services: Predictions for 2026 - LinkedIn",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-02-18"
+    },
+    {
+      "url": "https://www.morson.com/blog/top-ai-skills-engineers-should-learn-2026",
+      "url_normalized": "https://www.morson.com/blog/top-ai-skills-engineers-should-learn-2026",
+      "title": "Top AI skills engineers should learn in 2026 | Morson Jobs",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-02-18"
+    },
+    {
+      "url": "https://www.imf.org/en/blogs/articles/2026/01/14/new-skills-and-ai-are-reshaping-the-future-of-work",
+      "url_normalized": "https://www.imf.org/en/blogs/articles/2026/01/14/new-skills-and-ai-are-reshaping-the-future-of-work",
+      "title": "New Skills and AI Are Reshaping the Future of Work",
+      "category_id": "career_development",
+      "sent_date": "2026-02-18"
+    },
+    {
+      "url": "https://www.devex.com/news/the-ai-skills-global-development-professionals-need-in-2026-111847",
+      "url_normalized": "https://www.devex.com/news/the-ai-skills-global-development-professionals-need-in-2026-111847",
+      "title": "The AI skills global development professionals need in 2026",
+      "category_id": "career_development",
+      "sent_date": "2026-02-18"
+    },
+    {
+      "url": "https://www.cityu.edu/blog/most-in-demand-skills-career/",
+      "url_normalized": "https://www.cityu.edu/blog/most-in-demand-skills-career",
+      "title": "Future-Proof Your Career: Most In-Demand Skills for 2026",
+      "category_id": "career_development",
+      "sent_date": "2026-02-18"
+    }
+  ]
 }
