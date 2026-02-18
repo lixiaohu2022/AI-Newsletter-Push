@@ -107,6 +107,65 @@ def test_email_rendering():
     print(f"   请在浏览器中打开查看效果")
 
 
+def test_dedup():
+    """测试去重功能"""
+    print("\n" + "="*60)
+    print("测试5: 文章去重")
+    print("="*60)
+
+    from dedup import ArticleDeduplicator
+
+    test_path = "data/test_sent_articles.json"
+
+    # 清理可能残留的测试文件
+    if os.path.exists(test_path):
+        os.remove(test_path)
+
+    dedup = ArticleDeduplicator(history_path=test_path)
+
+    # 模拟已发送文章
+    dedup.record_articles([
+        {"url": "https://example.com/article-1", "title": "AI Breakthrough in Healthcare"},
+        {"url": "https://example.com/article-2?utm_source=twitter", "title": "New GPT Model Released"},
+    ], category_id="test")
+
+    print("\n已记录2篇历史文章:")
+    print("  - AI Breakthrough in Healthcare (example.com/article-1)")
+    print("  - New GPT Model Released (example.com/article-2?utm_source=twitter)")
+
+    # 测试过滤
+    new_articles = [
+        {"title": "AI Breakthrough in Healthcare", "link": "https://example.com/article-1", "snippet": "Exact URL match"},
+        {"title": "AI Breakthrough in Healthcare Sector", "link": "https://other.com/similar", "snippet": "Similar title"},
+        {"title": "New GPT Model Released", "link": "https://example.com/article-2", "snippet": "Same URL without utm"},
+        {"title": "Completely New Article About Robotics", "link": "https://example.com/article-3", "snippet": "Brand new"},
+        {"title": "Another Fresh Article on Quantum Computing", "link": "https://example.com/article-4", "snippet": "Also new"},
+    ]
+
+    print(f"\n测试过滤 {len(new_articles)} 篇新文章:")
+    filtered, removed = dedup.filter_articles(new_articles)
+
+    print(f"\n结果: 移除 {removed} 篇重复, 保留 {len(filtered)} 篇")
+    for a in filtered:
+        print(f"  ✅ {a['title']}")
+
+    # 验证
+    assert removed == 3, f"Expected 3 removed, got {removed}"
+    assert len(filtered) == 2, f"Expected 2 remaining, got {len(filtered)}"
+    assert filtered[0]['title'] == "Completely New Article About Robotics"
+    assert filtered[1]['title'] == "Another Fresh Article on Quantum Computing"
+
+    # 测试保存和加载
+    dedup.save_history()
+    dedup2 = ArticleDeduplicator(history_path=test_path)
+    assert len(dedup2.history["articles"]) == 2, "History should have 2 articles after save/load"
+
+    # 清理
+    os.remove(test_path)
+
+    print("\n✅ 去重测试全部通过!")
+
+
 def test_full_workflow():
     """测试完整工作流（不发送邮件）"""
     print("\n" + "="*60)
@@ -171,10 +230,11 @@ def main():
         print("2. 测试Claude AI总结")
         print("3. 测试HTML邮件渲染")
         print("4. 测试完整工作流")
-        print("5. 运行所有测试")
+        print("5. 测试文章去重")
+        print("6. 运行所有测试")
         print("0. 退出")
 
-        choice = input("\n输入选项 (0-5): ").strip()
+        choice = input("\n输入选项 (0-6): ").strip()
 
         try:
             if choice == '0':
@@ -189,10 +249,13 @@ def main():
             elif choice == '4':
                 test_full_workflow()
             elif choice == '5':
+                test_dedup()
+            elif choice == '6':
                 test_search()
                 test_summarization()
                 test_email_rendering()
                 test_full_workflow()
+                test_dedup()
             else:
                 print("\n⚠️  无效选项，请重新选择")
 

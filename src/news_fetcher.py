@@ -174,23 +174,36 @@ Important: Return ONLY valid JSON array, no additional text."""
                 for article in articles[:num_items]
             ]
 
-    def fetch_category_news(self, category_config: Dict[str, Any]) -> Dict[str, Any]:
+    def fetch_category_news(self, category_config: Dict[str, Any],
+                           deduplicator=None) -> Dict[str, Any]:
         """
         获取某个类别的新闻
 
         Args:
             category_config: 类别配置信息
+            deduplicator: 可选的 ArticleDeduplicator 实例，用于过滤重复文章
 
         Returns:
             包含新闻列表的字典
         """
         print(f"Fetching news for: {category_config['name_en']}")
 
+        needed = category_config['items_count']
+        fetch_count = max(10, needed * 3)
+
         # 搜索新闻
         search_results = self.search_news(
             category_config['search_keywords'],
-            num_results=10
+            num_results=fetch_count
         )
+
+        # 去重过滤
+        if deduplicator:
+            search_results, removed = deduplicator.filter_articles(search_results)
+            if removed > 0:
+                print(f"   [DEDUP] Removed {removed} duplicate(s), {len(search_results)} remaining")
+            if len(search_results) < needed:
+                print(f"   [DEDUP] Warning: Only {len(search_results)} unique articles available (need {needed})")
 
         # 使用Claude总结
         summarized_news = self.summarize_with_claude(
@@ -199,6 +212,10 @@ Important: Return ONLY valid JSON array, no additional text."""
             category_config['name_zh'],
             category_config['items_count']
         )
+
+        # 记录本次选中的文章
+        if deduplicator:
+            deduplicator.record_articles(summarized_news, category_config['id'])
 
         return {
             'category_id': category_config['id'],
