@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-03-02T03:34:57.507586",
+  "last_updated": "2026-03-09T03:38:21.086315",
   "articles": [
     {
       "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
@@ -435,6 +435,111 @@
       "title": "AI skills: 5 competencies for your job security in 2026",
       "category_id": "career_development",
       "sent_date": "2026-03-02"
+    },
+    {
+      "url": "https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026",
+      "url_normalized": "https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026",
+      "title": "Stanford AI Experts Predict What Will Happen in 2026",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-03-09"
+    },
+    {
+      "url": "https://www.forbes.com/sites/sylvainduranton/2026/01/30/the-next-phase-of-ai-takes-shape-in-2026/",
+      "url_normalized": "https://www.forbes.com/sites/sylvainduranton/2026/01/30/the-next-phase-of-ai-takes-shape-in-2026",
+      "title": "The Next Phase Of AI Takes Shape In 2026 - Forbes",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-03-09"
+    },
+    {
+      "url": "https://python.plainenglish.io/top-7-breakthrough-ai-technologies-to-watch-in-2026-11cecf79077f",
+      "url_normalized": "https://python.plainenglish.io/top-7-breakthrough-ai-technologies-to-watch-in-2026-11cecf79077f",
+      "title": "Top 7 Breakthrough AI Technologies to Watch in 2026",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-03-09"
+    },
+    {
+      "url": "https://medium.com/@natishalom/the-ai-leap-of-2026-5-surprising-realities-from-the-frontier-of-intelligence-28eec1f445ef",
+      "url_normalized": "https://medium.com/@natishalom/the-ai-leap-of-2026-5-surprising-realities-from-the-frontier-of-intelligence-28eec1f445ef",
+      "title": "The AI Leap of 2026: 5 Surprising Realities From the Frontier of ...",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-03-09"
+    },
+    {
+      "url": "https://codewave.com/insights/future-ai-trends-2026-enterprise-use-cases/",
+      "url_normalized": "https://codewave.com/insights/future-ai-trends-2026-enterprise-use-cases",
+      "title": "7 AI Trends in 2026: The Future of AI Enterprises Must Prepare For",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-03-09"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/ai-2026-beyond-what-enterprises-must-do-stay-competitive-r0kjc",
+      "url_normalized": "https://www.linkedin.com/pulse/ai-2026-beyond-what-enterprises-must-do-stay-competitive-r0kjc",
+      "title": "AI in 2026 and Beyond: What Enterprises Must Do to Stay Competitive",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-03-09"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/ai-transformation-2026-26-predictions-redefining-cx-ex-saltz-gulko-twspf",
+      "url_normalized": "https://www.linkedin.com/pulse/ai-transformation-2026-26-predictions-redefining-cx-ex-saltz-gulko-twspf",
+      "title": "AI Transformation 2026: 26 Predictions Redefining CX, EX, Design",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-03-09"
+    },
+    {
+      "url": "https://rtslabs.com/enterprise-ai-strategy/",
+      "url_normalized": "https://rtslabs.com/enterprise-ai-strategy",
+      "title": "Enterprise AI Strategy: A Complete Blueprint for 2026 (Frameworks)",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-03-09"
+    },
+    {
+      "url": "https://www.zignuts.com/blog/ai-project-management-case-studies-success-stories",
+      "url_normalized": "https://www.zignuts.com/blog/ai-project-management-case-studies-success-stories",
+      "title": "AI in Project Management: 2026 Case Studies & Successes",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-03-09"
+    },
+    {
+      "url": "https://www.cognixia.com/blog/ai-engineering-skills-companies-will-prioritize-in-2026/",
+      "url_normalized": "https://www.cognixia.com/blog/ai-engineering-skills-companies-will-prioritize-in-2026",
+      "title": "AI Engineering Skills Companies Will Prioritize in 2026",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-03-09"
+    },
+    {
+      "url": "https://www.cybersecurityintelligence.com/blog/what-to-look-for-in-an-engineering-and-ai-consulting-partner-in-2026-9165.html",
+      "url_normalized": "https://www.cybersecurityintelligence.com/blog/what-to-look-for-in-an-engineering-and-ai-consulting-partner-in-2026-9165.html",
+      "title": "What To Look for In An Engineering & AI Consulting Partner In 2026",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-03-09"
+    },
+    {
+      "url": "https://addepto.com/blog/how-to-choose-the-right-ai-consulting-company-in-2026/",
+      "url_normalized": "https://addepto.com/blog/how-to-choose-the-right-ai-consulting-company-in-2026",
+      "title": "How to Choose the Right AI Consulting Company in 2026",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-03-09"
+    },
+    {
+      "url": "https://aiskills.eu/news/the-future-of-ai-skills-what-to-learn-in-2026/",
+      "url_normalized": "https://aiskills.eu/news/the-future-of-ai-skills-what-to-learn-in-2026",
+      "title": "The future of AI skills: what to learn in 2026",
+      "category_id": "career_development",
+      "sent_date": "2026-03-09"
+    },
+    {
+      "url": "https://www.alignminds.com/top-ai-developer-skills-for-career-success-in-2026/",
+      "url_normalized": "https://www.alignminds.com/top-ai-developer-skills-for-career-success-in-2026",
+      "title": "Top AI Developer Skills for Career Success in 2026",
+      "category_id": "career_development",
+      "sent_date": "2026-03-09"
+    },
+    {
+      "url": "https://www.datacamp.com/resources/webinars/prepare-yourself-for-the-2026-ai-job-market",
+      "url_normalized": "https://www.datacamp.com/resources/webinars/prepare-yourself-for-the-2026-ai-job-market",
+      "title": "Prepare Yourself for the 2026 AI Job Market",
+      "category_id": "career_development",
+      "sent_date": "2026-03-09"
     }
   ]
 }
