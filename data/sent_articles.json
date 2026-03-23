@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-03-16T03:58:15.308534",
+  "last_updated": "2026-03-23T03:46:48.066970",
   "articles": [
     {
       "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
@@ -645,6 +645,62 @@
       "title": "What AI career opportunities are trending in 2026 for professionals with an AI certification",
       "category_id": "career_development",
       "sent_date": "2026-03-16"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/",
+      "url_normalized": "https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026",
+      "title": "10 Breakthrough Technologies 2026",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-03-23"
+    },
+    {
+      "url": "https://firstlinesoftware.com/blog/10-ai-use-cases-that-will-transform-2026-and-how-organizations-can-prepare-today/",
+      "url_normalized": "https://firstlinesoftware.com/blog/10-ai-use-cases-that-will-transform-2026-and-how-organizations-can-prepare-today",
+      "title": "10 AI Use Cases That Will Transform 2026 - First Line Software",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-03-23"
+    },
+    {
+      "url": "https://www.deloitte.com/us/en/insights/industry/engineering-and-construction/engineering-and-construction-industry-outlook.html",
+      "url_normalized": "https://www.deloitte.com/us/en/insights/industry/engineering-and-construction/engineering-and-construction-industry-outlook.html",
+      "title": "2026 Engineering and Construction Industry Outlook",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-03-23"
+    },
+    {
+      "url": "https://agathon.ai/insights/best-ai-consultancies-for-2026-navigating-the-agentic-era",
+      "url_normalized": "https://agathon.ai/insights/best-ai-consultancies-for-2026-navigating-the-agentic-era",
+      "title": "Best AI consultancies for 2026: navigating the agentic era",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-03-23"
+    },
+    {
+      "url": "https://www.reddit.com/r/AppBusiness/comments/1rrmox3/10_applied_ai_consulting_firms_worth_looking_at/",
+      "url_normalized": "https://www.reddit.com/r/AppBusiness/comments/1rrmox3/10_applied_ai_consulting_firms_worth_looking_at",
+      "title": "10 Applied AI Consulting Firms Worth Looking At in 2026",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-03-23"
+    },
+    {
+      "url": "https://www.knowledgecity.com/blog/the-ai-skills-your-workforce-actually-needs-in-2026/",
+      "url_normalized": "https://www.knowledgecity.com/blog/the-ai-skills-your-workforce-actually-needs-in-2026",
+      "title": "The AI Skills Your Workforce Actually Needs in 2026 - KnowledgeCity",
+      "category_id": "career_development",
+      "sent_date": "2026-03-23"
+    },
+    {
+      "url": "https://www.icertglobal.com/blog/how-to-learn-ai-and-deep-learning-in-2026-guide",
+      "url_normalized": "https://www.icertglobal.com/blog/how-to-learn-ai-and-deep-learning-in-2026-guide",
+      "title": "How to Learn AI and Deep Learning in 2026: Skills, Tools, and Career Paths",
+      "category_id": "career_development",
+      "sent_date": "2026-03-23"
+    },
+    {
+      "url": "https://techresearchonline.com/blog/ai-upskilling-courses-professionals-2026/",
+      "url_normalized": "https://techresearchonline.com/blog/ai-upskilling-courses-professionals-2026",
+      "title": "Top AI Upskilling Courses for Professionals in 2026",
+      "category_id": "career_development",
+      "sent_date": "2026-03-23"
     }
   ]
 }
