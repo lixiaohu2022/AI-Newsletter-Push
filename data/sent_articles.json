@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-03-23T03:46:48.066970",
+  "last_updated": "2026-03-30T04:11:00.067826",
   "articles": [
     {
       "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
@@ -701,6 +701,69 @@
       "title": "Top AI Upskilling Courses for Professionals in 2026",
       "category_id": "career_development",
       "sent_date": "2026-03-23"
+    },
+    {
+      "url": "https://washingtondc.jhu.edu/news/ai-in-2026/",
+      "url_normalized": "https://washingtondc.jhu.edu/news/ai-in-2026",
+      "title": "AI predictions for 2026 - Hopkins Bloomberg Center",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-03-30"
+    },
+    {
+      "url": "https://hyqoo.com/artificial-intelligence/ai-in-2026",
+      "url_normalized": "https://hyqoo.com/artificial-intelligence/ai-in-2026",
+      "title": "AI in 2026: 7 Transformations Every Enterprise Should Prepare For",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-03-30"
+    },
+    {
+      "url": "https://www.trigyn.com/insights/ai-strategy-2026-vision-enterprise-scale-execution",
+      "url_normalized": "https://www.trigyn.com/insights/ai-strategy-2026-vision-enterprise-scale-execution",
+      "title": "AI Strategy in 2026: From Vision to Enterprise-Scale Execution",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-03-30"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/ai-consulting-2026-how-strengthening-business-services-parag-asthana-s1qvc",
+      "url_normalized": "https://www.linkedin.com/pulse/ai-consulting-2026-how-strengthening-business-services-parag-asthana-s1qvc",
+      "title": "AI in Consulting 2026: How AI Is Strengthening Business Cons",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-03-30"
+    },
+    {
+      "url": "https://www.autodesk.com/blogs/construction/2026-ai-trends-25-experts-share-insights/",
+      "url_normalized": "https://www.autodesk.com/blogs/construction/2026-ai-trends-25-experts-share-insights",
+      "title": "2026 AI Construction Trends: 25+ Experts Share Insights",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-03-30"
+    },
+    {
+      "url": "https://www.refontelearning.com/blog/ai-engineering-in-2026-trends-skills-and-career-opportunities",
+      "url_normalized": "https://www.refontelearning.com/blog/ai-engineering-in-2026-trends-skills-and-career-opportunities",
+      "title": "AI Engineering in 2026: Trends, Skills, and Career Opportunities",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-03-30"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/future-proof-your-career-top-ai-skills-master-2026-simplilearn-nikfc",
+      "url_normalized": "https://www.linkedin.com/pulse/future-proof-your-career-top-ai-skills-master-2026-simplilearn-nikfc",
+      "title": "Future-Proof Your Career: Top AI Skills to Master in 2026",
+      "category_id": "career_development",
+      "sent_date": "2026-03-30"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gdgZ-X87Bwg",
+      "url_normalized": "https://www.youtube.com/watch?v=gdgZ-X87Bwg",
+      "title": "AI Is Replacing Jobs - Here Are the Skills You Need in 2026",
+      "category_id": "career_development",
+      "sent_date": "2026-03-30"
+    },
+    {
+      "url": "https://trainingindustry.com/press-release/artificial-intelligence/build-your-ai-skills-for-2026-general-assembly-launches-four-new-ai-courses/",
+      "url_normalized": "https://trainingindustry.com/press-release/artificial-intelligence/build-your-ai-skills-for-2026-general-assembly-launches-four-new-ai-courses",
+      "title": "Build Your AI Skills for 2026: General Assembly Launches Four New AI Courses",
+      "category_id": "career_development",
+      "sent_date": "2026-03-30"
     }
   ]
 }
