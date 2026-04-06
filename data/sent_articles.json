@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-03-30T04:11:00.067826",
+  "last_updated": "2026-04-06T04:09:51.655288",
   "articles": [
     {
       "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
@@ -764,6 +764,48 @@
       "title": "Build Your AI Skills for 2026: General Assembly Launches Four New AI Courses",
       "category_id": "career_development",
       "sent_date": "2026-03-30"
+    },
+    {
+      "url": "https://claritusconsulting.com/insights-resources/blogs/ai-transformation-in-2026/",
+      "url_normalized": "https://claritusconsulting.com/insights-resources/blogs/ai-transformation-in-2026",
+      "title": "AI in 2026: 7 Enterprise Use Cases Transforming Business Operations",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-04-06"
+    },
+    {
+      "url": "https://www.cio.com/article/4134741/how-agentic-ai-will-reshape-engineering-workflows-in-2026.html",
+      "url_normalized": "https://www.cio.com/article/4134741/how-agentic-ai-will-reshape-engineering-workflows-in-2026.html",
+      "title": "How agentic AI will reshape engineering workflows in 2026 - CIO",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-04-06"
+    },
+    {
+      "url": "https://futureofconsulting.ai/ai-leadership/2026-consultings-ai-revolution-update/",
+      "url_normalized": "https://futureofconsulting.ai/ai-leadership/2026-consultings-ai-revolution-update",
+      "title": "2026 Consulting's AI Revolution Update: Billions Spent, But the Old ...",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-04-06"
+    },
+    {
+      "url": "https://elearningindustry.com/advertise/elearning-marketing-resources/blog/monetize-ai-skills-training-for-elearning-and-hr-tech-vendors",
+      "url_normalized": "https://elearningindustry.com/advertise/elearning-marketing-resources/blog/monetize-ai-skills-training-for-elearning-and-hr-tech-vendors",
+      "title": "AI Skills Everyone Will Need In 2026, And How eLearning And HR Tech Vendors Can Monetize Training",
+      "category_id": "career_development",
+      "sent_date": "2026-04-06"
+    },
+    {
+      "url": "https://www.nawdp.org/events-training/virtual-academy/",
+      "url_normalized": "https://www.nawdp.org/events-training/virtual-academy",
+      "title": "Virtual Academy - NAWDP AI Training Program",
+      "category_id": "career_development",
+      "sent_date": "2026-04-06"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=t5Xfxqed4D0",
+      "url_normalized": "https://www.youtube.com/watch?v=t5Xfxqed4D0",
+      "title": "AI Career Skills to Learn in 2026 | Top Courses for Professionals",
+      "category_id": "career_development",
+      "sent_date": "2026-04-06"
     }
   ]
 }
