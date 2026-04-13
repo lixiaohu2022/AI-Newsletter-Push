@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-04-06T04:09:51.655288",
+  "last_updated": "2026-04-13T04:23:30.926212",
   "articles": [
     {
       "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
@@ -806,6 +806,69 @@
       "title": "AI Career Skills to Learn in 2026 | Top Courses for Professionals",
       "category_id": "career_development",
       "sent_date": "2026-04-06"
+    },
+    {
+      "url": "https://www.switas.com/articles/the-future-of-ai-7-breakthrough-trends-redefining-2026",
+      "url_normalized": "https://www.switas.com/articles/the-future-of-ai-7-breakthrough-trends-redefining-2026",
+      "title": "The Future of AI: 7 Breakthrough Trends Redefining 2026",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-04-13"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/why-2026-shaped-many-small-ai-breakthroughs-zr0ec",
+      "url_normalized": "https://www.linkedin.com/pulse/why-2026-shaped-many-small-ai-breakthroughs-zr0ec",
+      "title": "Why 2026 Will Be Shaped by Many Small AI Breakthroughs, Not One Big One",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-04-13"
+    },
+    {
+      "url": "https://6b.solutions/insight/top-7-ai-use-cases-that-are-transforming-business/",
+      "url_normalized": "https://6b.solutions/insight/top-7-ai-use-cases-that-are-transforming-business",
+      "title": "Top 7 AI Use Cases That Are Transforming Business in 2026",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-04-13"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/32-ai-case-studies-delivering-real-world-business-impact-aipoool-hlcgc",
+      "url_normalized": "https://www.linkedin.com/pulse/32-ai-case-studies-delivering-real-world-business-impact-aipoool-hlcgc",
+      "title": "32 AI Case Studies Delivering Real-World Business Impact",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-04-13"
+    },
+    {
+      "url": "https://www.capgemini.com/wp-content/uploads/2026/01/Final-Web-Version-Research-Brief-AI-Perspectives.pdf",
+      "url_normalized": "https://www.capgemini.com/wp-content/uploads/2026/01/Final-Web-Version-Research-Brief-AI-Perspectives.pdf",
+      "title": "The multi-year AI advantage - Capgemini Research Brief",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-04-13"
+    },
+    {
+      "url": "https://www.cloverinfotech.com/blog/why-2026-will-be-the-year-of-ai-engineering-and-what-cios-should-do-to-prepare/",
+      "url_normalized": "https://www.cloverinfotech.com/blog/why-2026-will-be-the-year-of-ai-engineering-and-what-cios-should-do-to-prepare",
+      "title": "Why 2026 Will Be the Year of AI Engineering and What CIOs Should Do to Prepare",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-04-13"
+    },
+    {
+      "url": "https://www.abbacustechnologies.com/top-ai-consulting-firms-in-2026/",
+      "url_normalized": "https://www.abbacustechnologies.com/top-ai-consulting-firms-in-2026",
+      "title": "Top AI Consulting Firms in 2026 - Abbacus Technologies",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-04-13"
+    },
+    {
+      "url": "https://www.reddit.com/r/TopRatedAIApps/comments/1ryr7ps/10_ai_consulting_companies_for_productionready/",
+      "url_normalized": "https://www.reddit.com/r/TopRatedAIApps/comments/1ryr7ps/10_ai_consulting_companies_for_productionready",
+      "title": "10 AI Consulting Companies for Production-Ready Systems in 2026",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-04-13"
+    },
+    {
+      "url": "https://events.educause.edu/educause-summit/2026",
+      "url_normalized": "https://events.educause.edu/educause-summit/2026",
+      "title": "EDUCAUSE Summit | Developing an AI-Ready Workforce",
+      "category_id": "career_development",
+      "sent_date": "2026-04-13"
     }
   ]
 }
