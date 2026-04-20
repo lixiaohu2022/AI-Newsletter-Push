@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-04-13T04:23:30.926212",
+  "last_updated": "2026-04-20T04:22:41.361049",
   "articles": [
     {
       "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
@@ -869,6 +869,62 @@
       "title": "EDUCAUSE Summit | Developing an AI-Ready Workforce",
       "category_id": "career_development",
       "sent_date": "2026-04-13"
+    },
+    {
+      "url": "https://profitminds.net/generative-ai-business-use-cases-reshaping-enterprises-in-2026/",
+      "url_normalized": "https://profitminds.net/generative-ai-business-use-cases-reshaping-enterprises-in-2026",
+      "title": "Generative AI Business Use Cases Reshaping Enterprises in 2026",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-04-20"
+    },
+    {
+      "url": "https://hyperight.com/enterprise-ai-operationalization-2026/",
+      "url_normalized": "https://hyperight.com/enterprise-ai-operationalization-2026",
+      "title": "What 300+ Enterprise AI Use Cases on the Data Innovation Summit Reveal About AI Operationalization in 2026",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-04-20"
+    },
+    {
+      "url": "https://seidrlab.com/blog/what-is-ai-consulting-2026-guide",
+      "url_normalized": "https://seidrlab.com/blog/what-is-ai-consulting-2026-guide",
+      "title": "What is AI Consulting? The 2026 Complete Guide for Mid-Market Companies",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-04-20"
+    },
+    {
+      "url": "https://www.solutelabs.com/blog/top-generative-ai-consulting-companies",
+      "url_normalized": "https://www.solutelabs.com/blog/top-generative-ai-consulting-companies",
+      "title": "Top 10 Generative AI Consulting Companies to Watch in 2026",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-04-20"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/engineering-consultation-market-size-2026-ai-technology-outlook-2pnrc/",
+      "url_normalized": "https://www.linkedin.com/pulse/engineering-consultation-market-size-2026-ai-technology-outlook-2pnrc",
+      "title": "Engineering Consultation Market Size 2026 | AI Technology Integration Analysis",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-04-20"
+    },
+    {
+      "url": "https://codebasics.io/blog/ai-for-non-technical-professionals-2026-guide-career-opportunities-tools-future-trends",
+      "url_normalized": "https://codebasics.io/blog/ai-for-non-technical-professionals-2026-guide-career-opportunities-tools-future-trends",
+      "title": "AI Guide for Non-Tech Pros 2026",
+      "category_id": "career_development",
+      "sent_date": "2026-04-20"
+    },
+    {
+      "url": "https://aiproinstitute.com/3-ai-skills-to-learn-before-youre-passed-over-for-your-next-job-the-career-imperative-every-professional-faces-in-2026/",
+      "url_normalized": "https://aiproinstitute.com/3-ai-skills-to-learn-before-youre-passed-over-for-your-next-job-the-career-imperative-every-professional-faces-in-2026",
+      "title": "3 AI Skills To Learn Before You're Passed Over For Your Next Job: The Career Imperative Every Professional Faces in 2026",
+      "category_id": "career_development",
+      "sent_date": "2026-04-20"
+    },
+    {
+      "url": "https://www.jobaajlearnings.com/blog/best-ai-courses-to-boost-your-career-in-2026",
+      "url_normalized": "https://www.jobaajlearnings.com/blog/best-ai-courses-to-boost-your-career-in-2026",
+      "title": "Best AI Courses to Boost Your Career in 2026",
+      "category_id": "career_development",
+      "sent_date": "2026-04-20"
     }
   ]
 }
