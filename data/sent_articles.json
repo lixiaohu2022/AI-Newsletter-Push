@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-04-20T04:22:41.361049",
+  "last_updated": "2026-04-27T04:33:42.647898",
   "articles": [
     {
       "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
@@ -925,6 +925,48 @@
       "title": "Best AI Courses to Boost Your Career in 2026",
       "category_id": "career_development",
       "sent_date": "2026-04-20"
+    },
+    {
+      "url": "https://www.ptechpartners.com/2026/04/07/march-2026-ai-news-roundup-breakthroughs-and-the-fights-forecasts-and-fears/",
+      "url_normalized": "https://www.ptechpartners.com/2026/04/07/march-2026-ai-news-roundup-breakthroughs-and-the-fights-forecasts-and-fears",
+      "title": "March 2026 AI News Roundup: Breakthroughs and the Fights, Forecasts and Fears",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-04-27"
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20260415720030/en/Forresters-Top-10-Emerging-Technologies-For-2026-AI-Is-No-Longer-Confined-To-Digital-Workflows",
+      "url_normalized": "https://www.businesswire.com/news/home/20260415720030/en/Forresters-Top-10-Emerging-Technologies-For-2026-AI-Is-No-Longer-Confined-To-Digital-Workflows",
+      "title": "Forrester's Top 10 Emerging Technologies For 2026: AI Is No Longer Confined To Digital Workflows",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-04-27"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/enterprise-ai-adoption-2026-from-experimental-core-dinesh-abeysinghe-0m0jc",
+      "url_normalized": "https://www.linkedin.com/pulse/enterprise-ai-adoption-2026-from-experimental-core-dinesh-abeysinghe-0m0jc",
+      "title": "Enterprise AI Adoption in 2026: From Experimental Innovation to Core Business Operations",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-04-27"
+    },
+    {
+      "url": "https://gisuser.com/2026/03/top-10-best-generative-ai-consulting-companies-for-industries-in-2026/",
+      "url_normalized": "https://gisuser.com/2026/03/top-10-best-generative-ai-consulting-companies-for-industries-in-2026",
+      "title": "Top 10 Best Generative AI Consulting Companies for Industries in 2026",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-04-27"
+    },
+    {
+      "url": "https://medium.com/@sakti.bagchi/the-practical-ai-skills-roadmap-for-2026-what-actually-matters-and-how-to-get-started-b691d571bac0",
+      "url_normalized": "https://medium.com/@sakti.bagchi/the-practical-ai-skills-roadmap-for-2026-what-actually-matters-and-how-to-get-started-b691d571bac0",
+      "title": "The Practical AI Skills Roadmap for 2026: What Actually Matters and ...",
+      "category_id": "career_development",
+      "sent_date": "2026-04-27"
+    },
+    {
+      "url": "https://ai.wharton.upenn.edu/ai-and-the-future-of-work-conference-2026/",
+      "url_normalized": "https://ai.wharton.upenn.edu/ai-and-the-future-of-work-conference-2026",
+      "title": "AI and the Future of Work Conference 2026",
+      "category_id": "career_development",
+      "sent_date": "2026-04-27"
     }
   ]
 }
