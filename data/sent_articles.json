@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-04-27T04:33:42.647898",
+  "last_updated": "2026-05-04T04:43:49.780356",
   "articles": [
     {
       "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
@@ -967,6 +967,76 @@
       "title": "AI and the Future of Work Conference 2026",
       "category_id": "career_development",
       "sent_date": "2026-04-27"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IjHIE2DMUNg",
+      "url_normalized": "https://www.youtube.com/watch?v=IjHIE2DMUNg",
+      "title": "15 New Things AI Can Do in 2026 That Were Impossible Last Year",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-05-04"
+    },
+    {
+      "url": "https://kersai.com/ai-breakthroughs-in-2026/",
+      "url_normalized": "https://kersai.com/ai-breakthroughs-in-2026",
+      "title": "AI Breakthroughs in 2026: The Year of Agentic AI",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-05-04"
+    },
+    {
+      "url": "https://digitaleconomy.stanford.edu/app/uploads/2026/03/EnterpriseAIPlaybook_PereiraGraylinBrynjolfsson.pdf",
+      "url_normalized": "https://digitaleconomy.stanford.edu/app/uploads/2026/03/EnterpriseAIPlaybook_PereiraGraylinBrynjolfsson.pdf",
+      "title": "The Enterprise AI Playbook - Stanford Digital Economy Lab",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-05-04"
+    },
+    {
+      "url": "https://www.pixelbrainy.com/blog/top-ai-startup-case-studies",
+      "url_normalized": "https://www.pixelbrainy.com/blog/top-ai-startup-case-studies",
+      "title": "15 Successful AI Startup Case Studies (2026) - PixelBrainy",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-05-04"
+    },
+    {
+      "url": "https://inteliscience.net/ai-consulting-for-enterprises-how-to-choose-the-right-ai-partner-in-2026/",
+      "url_normalized": "https://inteliscience.net/ai-consulting-for-enterprises-how-to-choose-the-right-ai-partner-in-2026",
+      "title": "AI Consulting: How to Choose the Right AI Partner in 2026",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-05-04"
+    },
+    {
+      "url": "https://www.groovyweb.co/blog/top-ai-consulting-firms-startups-enterprises-2026",
+      "url_normalized": "https://www.groovyweb.co/blog/top-ai-consulting-firms-startups-enterprises-2026",
+      "title": "Top AI Consulting Firms for Startups and Enterprises in 2026 (Ranked)",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-05-04"
+    },
+    {
+      "url": "https://www.baytechconsulting.com/blog/unlocking-ai-software-development-2026",
+      "url_normalized": "https://www.baytechconsulting.com/blog/unlocking-ai-software-development-2026",
+      "title": "Unlocking 2026: The Future of AI-Driven Software Development",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-05-04"
+    },
+    {
+      "url": "https://www.usaii.org/ai-insights/the-2026-ai-skills-gap-turning-training-into-workforce-power",
+      "url_normalized": "https://www.usaii.org/ai-insights/the-2026-ai-skills-gap-turning-training-into-workforce-power",
+      "title": "The 2026 AI Skills Gap: Turning Training into Workforce Power",
+      "category_id": "career_development",
+      "sent_date": "2026-05-04"
+    },
+    {
+      "url": "https://www.cloudthat.com/resources/blog/how-ai-ml-courses-are-evolving-to-meet-2026-job-roles-and-how-you-can-stay-ahead/",
+      "url_normalized": "https://www.cloudthat.com/resources/blog/how-ai-ml-courses-are-evolving-to-meet-2026-job-roles-and-how-you-can-stay-ahead",
+      "title": "AI & ML Courses: Skills You Need for 2026 Job Roles - CloudThat",
+      "category_id": "career_development",
+      "sent_date": "2026-05-04"
+    },
+    {
+      "url": "https://www.naceweb.org/professional-development/2025/nace-ai-bootcamp-for-career-services",
+      "url_normalized": "https://www.naceweb.org/professional-development/2025/nace-ai-bootcamp-for-career-services",
+      "title": "NACE AI Bootcamp for Career Services (Fall 2025 + Spring 2026)",
+      "category_id": "career_development",
+      "sent_date": "2026-05-04"
     }
   ]
 }
