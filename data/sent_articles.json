@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-05-04T04:43:49.780356",
+  "last_updated": "2026-05-11T05:00:58.189292",
   "articles": [
     {
       "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
@@ -1037,6 +1037,55 @@
       "title": "NACE AI Bootcamp for Career Services (Fall 2025 + Spring 2026)",
       "category_id": "career_development",
       "sent_date": "2026-05-04"
+    },
+    {
+      "url": "https://digitaleconomy.stanford.edu/publication/enterprise-ai-playbook/",
+      "url_normalized": "https://digitaleconomy.stanford.edu/publication/enterprise-ai-playbook",
+      "title": "The Enterprise AI Playbook: Lessons from 51 Successful ...",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-05-11"
+    },
+    {
+      "url": "https://ssntpl.com/enterprise-ai-implementation-complete-2026-guide/",
+      "url_normalized": "https://ssntpl.com/enterprise-ai-implementation-complete-2026-guide",
+      "title": "Enterprise AI Implementation Guide 2026: 6-Phase Framework That ...",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-05-11"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/enterprise-ai-agents-2026-use-cases-benefits-future-ak-srinivas-qzryc",
+      "url_normalized": "https://www.linkedin.com/pulse/enterprise-ai-agents-2026-use-cases-benefits-future-ak-srinivas-qzryc",
+      "title": "Enterprise AI Agents in 2026: Use Cases, Benefits, and the Future of ...",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-05-11"
+    },
+    {
+      "url": "https://www.amitjadhav.com/blogs/Enterprise-AI-Adoption-Strategy-A-Complete-Guide-for-Business-Leaders-(2026)",
+      "url_normalized": "https://www.amitjadhav.com/blogs/Enterprise-AI-Adoption-Strategy-A-Complete-Guide-for-Business-Leaders-(2026)",
+      "title": "Enterprise AI Strategy 2026: Complete Guide for Business Leaders",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-05-11"
+    },
+    {
+      "url": "https://medium.com/@mpiricalai/enterprise-ai-solutions-the-complete-2026-implementation-guide-for-us-uk-businesses-5df8a807c51a",
+      "url_normalized": "https://medium.com/@mpiricalai/enterprise-ai-solutions-the-complete-2026-implementation-guide-for-us-uk-businesses-5df8a807c51a",
+      "title": "Enterprise AI Solutions: The Complete 2026 Implementation Guide ...",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-05-11"
+    },
+    {
+      "url": "https://www.cloudthat.com/resources/blog/top-ai-and-machine-learning-trends-in-2026-an-enterprise-consulting-perspective-for-engineersn/",
+      "url_normalized": "https://www.cloudthat.com/resources/blog/top-ai-and-machine-learning-trends-in-2026-an-enterprise-consulting-perspective-for-engineersn",
+      "title": "Top AI and Machine Learning Trends in 2026: An Enterprise Consulting Perspective for Engineers",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-05-11"
+    },
+    {
+      "url": "https://tripleten.com/blog/posts/ai-skills",
+      "url_normalized": "https://tripleten.com/blog/posts/ai-skills",
+      "title": "AI Skills 2026: The Employer's Wishlist - TripleTen",
+      "category_id": "career_development",
+      "sent_date": "2026-05-11"
     }
   ]
 }
