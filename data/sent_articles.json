@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-05-11T05:00:58.189292",
+  "last_updated": "2026-05-18T05:09:28.674115",
   "articles": [
     {
       "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
@@ -1086,6 +1086,34 @@
       "title": "AI Skills 2026: The Employer's Wishlist - TripleTen",
       "category_id": "career_development",
       "sent_date": "2026-05-11"
+    },
+    {
+      "url": "https://elli.tech.blog/2026/04/06/top-ai-implementation-companies-driving-enterprise-innovation-2026/",
+      "url_normalized": "https://elli.tech.blog/2026/04/06/top-ai-implementation-companies-driving-enterprise-innovation-2026",
+      "title": "Top AI Implementation Companies Driving Enterprise Innovation 2026",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-05-18"
+    },
+    {
+      "url": "https://noseberry.com/blogs/ai-ml/ai-consulting-services-in-2026-what-they-include-what-they-cost-and-when-you-need-them",
+      "url_normalized": "https://noseberry.com/blogs/ai-ml/ai-consulting-services-in-2026-what-they-include-what-they-cost-and-when-you-need-them",
+      "title": "AI Consulting Services in 2026: What They Include, Cost, and When You Need Them",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-05-18"
+    },
+    {
+      "url": "https://medium.com/@interviewstack.io.2026/ai-engineer-skills-companies-want-in-2026-3-449-posting-analysis-4f70c56872cc",
+      "url_normalized": "https://medium.com/@interviewstack.io.2026/ai-engineer-skills-companies-want-in-2026-3-449-posting-analysis-4f70c56872cc",
+      "title": "AI Engineer Skills Companies Want in 2026",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-05-18"
+    },
+    {
+      "url": "https://ciphernutz.com/blog/best-generative-ai-consulting-companies",
+      "url_normalized": "https://ciphernutz.com/blog/best-generative-ai-consulting-companies",
+      "title": "12 Best Generative AI Consulting Companies in 2026",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-05-18"
     }
   ]
 }
