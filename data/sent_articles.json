@@ -1,329 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-18T05:09:28.674115",
+  "last_updated": "2026-05-25T05:24:12.439128",
   "articles": [
-    {
-      "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
-      "url_normalized": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026",
-      "title": "What's next in AI: 7 trends to watch in 2026 - Microsoft Source",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "url_normalized": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "title": "The Latest AI News and AI Breakthroughs that Matter Most",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.gesda.global/ai-in-2026-breakthrough-to-coordination/",
-      "url_normalized": "https://www.gesda.global/ai-in-2026-breakthrough-to-coordination",
-      "title": "AI in 2026: From Breakthrough to Coordination - GESDA Global",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html",
-      "url_normalized": "https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html",
-      "title": "6 AI breakthroughs that will define 2026 - InfoWorld",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
-      "url_normalized": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026",
-      "title": "What's next for AI in 2026 | MIT Technology Review",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html",
-      "url_normalized": "https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html",
-      "title": "The State of AI in the Enterprise - 2026 AI report | Deloitte US",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.cio.com/article/4122937/davos-from-hype-to-ai-transformation-in-the-economy.html",
-      "url_normalized": "https://www.cio.com/article/4122937/davos-from-hype-to-ai-transformation-in-the-economy.html",
-      "title": "WEF highlights 32 AI case studies with real-world business impact",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-predictions.html",
-      "url_normalized": "https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-predictions.html",
-      "title": "2026 AI Business Predictions - PwC",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://rtslabs.com/enterprise-ai-roadmap/",
-      "url_normalized": "https://rtslabs.com/enterprise-ai-roadmap",
-      "title": "Enterprise AI Roadmap: The Complete 2026 Guide - RTS Labs",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://codewave.com/insights/ai-enterprise-adoption-2026/",
-      "url_normalized": "https://codewave.com/insights/ai-enterprise-adoption-2026",
-      "title": "The State of AI Enterprise Adoption in 2026 - Codewave",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/software-industry-outlook.html",
-      "url_normalized": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/software-industry-outlook.html",
-      "title": "2026 Global Software Industry Outlook - Deloitte",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.linkedin.com/pulse/ai-professional-services-predictions-2026-jason-spencer-jg5ye",
-      "url_normalized": "https://www.linkedin.com/pulse/ai-professional-services-predictions-2026-jason-spencer-jg5ye",
-      "title": "AI in Professional Services: Predictions for 2026 - LinkedIn",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.morson.com/blog/top-ai-skills-engineers-should-learn-2026",
-      "url_normalized": "https://www.morson.com/blog/top-ai-skills-engineers-should-learn-2026",
-      "title": "Top AI skills engineers should learn in 2026 | Morson Jobs",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.imf.org/en/blogs/articles/2026/01/14/new-skills-and-ai-are-reshaping-the-future-of-work",
-      "url_normalized": "https://www.imf.org/en/blogs/articles/2026/01/14/new-skills-and-ai-are-reshaping-the-future-of-work",
-      "title": "New Skills and AI Are Reshaping the Future of Work",
-      "category_id": "career_development",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.devex.com/news/the-ai-skills-global-development-professionals-need-in-2026-111847",
-      "url_normalized": "https://www.devex.com/news/the-ai-skills-global-development-professionals-need-in-2026-111847",
-      "title": "The AI skills global development professionals need in 2026",
-      "category_id": "career_development",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.cityu.edu/blog/most-in-demand-skills-career/",
-      "url_normalized": "https://www.cityu.edu/blog/most-in-demand-skills-career",
-      "title": "Future-Proof Your Career: Most In-Demand Skills for 2026",
-      "category_id": "career_development",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/01/12/1130027/generative-coding-ai-software-2026-breakthrough-technology/",
-      "url_normalized": "https://www.technologyreview.com/2026/01/12/1130027/generative-coding-ai-software-2026-breakthrough-technology",
-      "title": "Generative coding: 10 Breakthrough Technologies 2026",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026",
-      "url_normalized": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026",
-      "title": "The trends that will shape AI and tech in 2026 - IBM",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.trigyn.com/insights/ai-trends-2026-new-era-ai-advancements-and-breakthroughs",
-      "url_normalized": "https://www.trigyn.com/insights/ai-trends-2026-new-era-ai-advancements-and-breakthroughs",
-      "title": "AI Trends in 2026: A New Era of AI Advancements and Breakthroughs",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://medium.com/@creatix/top-ai-breakthroughs-of-2025-and-whats-on-tap-for-2026-603cc64612e2",
-      "url_normalized": "https://medium.com/@creatix/top-ai-breakthroughs-of-2025-and-whats-on-tap-for-2026-603cc64612e2",
-      "title": "Top AI Breakthroughs of 2025 — and What's on Tap for 2026",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.linkedin.com/posts/farshidghyasi_ai-techinnovation-machinelearning-activity-7424470177712451585-xAkF",
-      "url_normalized": "https://www.linkedin.com/posts/farshidghyasi_ai-techinnovation-machinelearning-activity-7424470177712451585-xAkF",
-      "title": "AI Breakthroughs in 2026: Frontier Models & Tools - LinkedIn",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://productschool.com/blog/artificial-intelligence/ai-business-use-cases",
-      "url_normalized": "https://productschool.com/blog/artificial-intelligence/ai-business-use-cases",
-      "title": "15 AI Business Use Cases in 2026 + Real-World Examples",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.stack-ai.com/blog/the-most-popular-ai-use-cases-in-the-enterprise",
-      "url_normalized": "https://www.stack-ai.com/blog/the-most-popular-ai-use-cases-in-the-enterprise",
-      "title": "Top 10 Enterprise AI Use Cases Driving Business Impact",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.randgroup.com/insights/services/ai-machine-learning/enterprise-ai-in-2026-a-practical-guide-for-microsoft-customers/",
-      "url_normalized": "https://www.randgroup.com/insights/services/ai-machine-learning/enterprise-ai-in-2026-a-practical-guide-for-microsoft-customers",
-      "title": "Enterprise AI in 2026: A practical guide for Microsoft customers",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.dataversity.net/articles/the-2026-enterprise-ai-horizon-from-models-to-meaning-and-the-shift-from-power-to-purpose/",
-      "url_normalized": "https://www.dataversity.net/articles/the-2026-enterprise-ai-horizon-from-models-to-meaning-and-the-shift-from-power-to-purpose",
-      "title": "The 2026 Enterprise AI Horizon: From Models to Meaning and the ...",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://futransolutions.com/blog/choosing-the-right-ai-use-cases-linking-ai-to-decisions-that-matter-2026/",
-      "url_normalized": "https://futransolutions.com/blog/choosing-the-right-ai-use-cases-linking-ai-to-decisions-that-matter-2026",
-      "title": "AI Use Cases 2026: A Framework for Impact & Scale - Futran Solutions",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.linkedin.com/pulse/ai-engineer-roadmap-2026-own-future-careerxperts-consulting-eburc",
-      "url_normalized": "https://www.linkedin.com/pulse/ai-engineer-roadmap-2026-own-future-careerxperts-consulting-eburc",
-      "title": "AI Engineer Roadmap 2026: Own the Future of AI",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://rtslabs.com/top-ai-consulting-firms/",
-      "url_normalized": "https://rtslabs.com/top-ai-consulting-firms",
-      "title": "9 Best AI Consulting Firms for Enterprises: 2026 Review",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://geniusdrive.com/value-consulting-outlook-planning-for-2026-beyond/",
-      "url_normalized": "https://geniusdrive.com/value-consulting-outlook-planning-for-2026-beyond",
-      "title": "Value Consulting Outlook: Planning for 2026 & Beyond",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.computerworld.com/article/4117602/what-ai-skills-job-seekers-need-to-develop-in-2026.html",
-      "url_normalized": "https://www.computerworld.com/article/4117602/what-ai-skills-job-seekers-need-to-develop-in-2026.html",
-      "title": "What AI skills job seekers need to develop in 2026 - Computerworld",
-      "category_id": "career_development",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.coursera.org/in/articles/ai-skills",
-      "url_normalized": "https://www.coursera.org/in/articles/ai-skills",
-      "title": "6 Highly Desirable AI Skills for 2026 | Coursera",
-      "category_id": "career_development",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://medium.com/write-a-catalyst/future-proof-your-career-with-ai-skills-in-2026-00a7956abb6e",
-      "url_normalized": "https://medium.com/write-a-catalyst/future-proof-your-career-with-ai-skills-in-2026-00a7956abb6e",
-      "title": "Future-Proof Your Career with AI Skills in 2026 | by Basit Ali - Medium",
-      "category_id": "career_development",
-      "sent_date": "2026-02-18"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=MNiF8pPTao8",
-      "url_normalized": "https://www.youtube.com/watch?v=MNiF8pPTao8",
-      "title": "The 100x AI Breakthrough No One is Talking About - YouTube",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-02-23"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=h6Hu3xK83Js",
-      "url_normalized": "https://www.youtube.com/watch?v=h6Hu3xK83Js",
-      "title": "What Will the Next Major AI Breakthrough Look Like - YouTube",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-02-23"
-    },
-    {
-      "url": "https://www.reddit.com/r/singularity/comments/1pzquum/what_will_happen_with_ai_in_2026_what_kind_of/",
-      "url_normalized": "https://www.reddit.com/r/singularity/comments/1pzquum/what_will_happen_with_ai_in_2026_what_kind_of",
-      "title": "What will happen with AI in 2026? - What kind of breakthroughs are ...",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-02-23"
-    },
-    {
-      "url": "https://joshbersin.com/2026/02/new-research-how-ai-transforms-400-billion-of-corporate-learning/",
-      "url_normalized": "https://joshbersin.com/2026/02/new-research-how-ai-transforms-400-billion-of-corporate-learning",
-      "title": "New Research: How AI Transforms $400 Billion Of Corporate Learning",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-02-23"
-    },
-    {
-      "url": "https://onereach.ai/blog/best-practices-for-ai-agent-implementations/",
-      "url_normalized": "https://onereach.ai/blog/best-practices-for-ai-agent-implementations",
-      "title": "Best Practices for AI Agent Implementations: Enterprise Guide 2026",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-02-23"
-    },
-    {
-      "url": "https://onlinelibrary.wiley.com/doi/10.1111/isj.70029",
-      "url_normalized": "https://onlinelibrary.wiley.com/doi/10.1111/isj.70029",
-      "title": "Lessons From a Case Study of Enhanced IT Service Management",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-02-23"
-    },
-    {
-      "url": "https://www.ninetwothree.co/blog/ai-adoption-case-studies",
-      "url_normalized": "https://www.ninetwothree.co/blog/ai-adoption-case-studies",
-      "title": "AI Adoption That Works: 5 Enterprise Case Studies",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-02-23"
-    },
-    {
-      "url": "https://www.dataversity.net/webinar/promising-ai-use-cases-for-the-enterprise-in-2026/",
-      "url_normalized": "https://www.dataversity.net/webinar/promising-ai-use-cases-for-the-enterprise-in-2026",
-      "title": "Promising AI Use Cases for the Enterprise in 2026 - Dataversity",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-02-23"
-    },
-    {
-      "url": "https://www.forconstructionpros.com/business/business-services/coaching-consulting/article/22960009/togalai-ask-before-you-buy-important-questions-when-buying-ai-in-2026",
-      "url_normalized": "https://www.forconstructionpros.com/business/business-services/coaching-consulting/article/22960009/togalai-ask-before-you-buy-important-questions-when-buying-ai-in-2026",
-      "title": "Ask Before You Buy: Important Questions When Buying AI in 2026",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-02-23"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=Pagd9kNIg9o",
-      "url_normalized": "https://www.youtube.com/watch?v=Pagd9kNIg9o",
-      "title": "2026 Will Be The Golden Age of AI Consulting (Here's Why)",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-02-23"
-    },
-    {
-      "url": "https://www.elsner.com/the-future-of-ai/",
-      "url_normalized": "https://www.elsner.com/the-future-of-ai",
-      "title": "The Future of AI: What's Changing Between 2026 and 2036",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-02-23"
-    },
-    {
-      "url": "https://www.digitalapplied.com/blog/ai-upskilling-workforce-guide-stay-relevant-2026",
-      "url_normalized": "https://www.digitalapplied.com/blog/ai-upskilling-workforce-guide-stay-relevant-2026",
-      "title": "AI Upskilling 2026: Stay Relevant as 80% Must Retrain",
-      "category_id": "career_development",
-      "sent_date": "2026-02-23"
-    },
-    {
-      "url": "https://www.forbes.org/sites/markcperna/2026/02/03/mastering-the-most-valuable-professional-skills-of-2026/",
-      "url_normalized": "https://www.forbes.org/sites/markcperna/2026/02/03/mastering-the-most-valuable-professional-skills-of-2026",
-      "title": "Mastering The Most Valuable Professional Skills Of 2026 - Forbes",
-      "category_id": "career_development",
-      "sent_date": "2026-02-23"
-    },
-    {
-      "url": "https://www.linkedin.com/pulse/2026-ai-skills-every-professional-need-elearningindustry-egrtf",
-      "url_normalized": "https://www.linkedin.com/pulse/2026-ai-skills-every-professional-need-elearningindustry-egrtf",
-      "title": "2026 AI Skills Every Professional Will Need - LinkedIn",
-      "category_id": "career_development",
-      "sent_date": "2026-02-23"
-    },
     {
       "url": "https://www.universityofcalifornia.edu/news/11-things-ai-experts-are-watching-2026",
       "url_normalized": "https://www.universityofcalifornia.edu/news/11-things-ai-experts-are-watching-2026",
@@ -1114,6 +792,41 @@
       "title": "12 Best Generative AI Consulting Companies in 2026",
       "category_id": "consulting_industry",
       "sent_date": "2026-05-18"
+    },
+    {
+      "url": "https://www.crescendo.ai/news/ai-breakthroughs-and-latest-ai-news-2026",
+      "url_normalized": "https://www.crescendo.ai/news/ai-breakthroughs-and-latest-ai-news-2026",
+      "title": "AI Breakthroughs and Latest AI News: Jan-Feb 2026",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-05-25"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/ai-revolution-engineering-consulting-nick-curum-ypcqe",
+      "url_normalized": "https://www.linkedin.com/pulse/ai-revolution-engineering-consulting-nick-curum-ypcqe",
+      "title": "AI Revolution in Engineering & Consulting",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-05-25"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ICispFxvPIY",
+      "url_normalized": "https://www.youtube.com/watch?v=ICispFxvPIY",
+      "title": "The Current State of AI for Software Engineers (2026)",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-05-25"
+    },
+    {
+      "url": "https://events.howard.edu/event/advancing-ai-jobs-skills-and-pathways-workshop-series",
+      "url_normalized": "https://events.howard.edu/event/advancing-ai-jobs-skills-and-pathways-workshop-series",
+      "title": "Advancing AI Jobs, Skills, and Pathways Workshop Series",
+      "category_id": "career_development",
+      "sent_date": "2026-05-25"
+    },
+    {
+      "url": "https://search.glance.com/search/yo_j180226/Hy00BSLpFpcInLzITWH9EckzzPZR80K1anFdUxMd.html?slug=professional-development-courses-for-us-workers-skills-for-2&vertical=ai&template=8&serpads=1&utm_source=g&summary=true&referrer=Bundle_shp_explore_cta&pagesource=bundle_feed_carousel",
+      "url_normalized": "https://search.glance.com/search/yo_j180226/Hy00BSLpFpcInLzITWH9EckzzPZR80K1anFdUxMd.html?slug=professional-development-courses-for-us-workers-skills-for-2&vertical=ai&template=8&serpads=1&summary=true&referrer=Bundle_shp_explore_cta&pagesource=bundle_feed_carousel",
+      "title": "Professional Development Courses for US Workers: Skills for 2026",
+      "category_id": "career_development",
+      "sent_date": "2026-05-25"
     }
   ]
 }
