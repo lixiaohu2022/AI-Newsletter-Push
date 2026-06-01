@@ -1,119 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-25T05:24:12.439128",
+  "last_updated": "2026-06-01T06:09:55.911686",
   "articles": [
-    {
-      "url": "https://www.universityofcalifornia.edu/news/11-things-ai-experts-are-watching-2026",
-      "url_normalized": "https://www.universityofcalifornia.edu/news/11-things-ai-experts-are-watching-2026",
-      "title": "11 things AI experts are watching for in 2026",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-03-02"
-    },
-    {
-      "url": "https://www.cfr.org/articles/how-2026-could-decide-future-artificial-intelligence",
-      "url_normalized": "https://www.cfr.org/articles/how-2026-could-decide-future-artificial-intelligence",
-      "title": "How 2026 Could Decide the Future of Artificial Intelligence",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-03-02"
-    },
-    {
-      "url": "https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/blogs/pulse-check-series-latest-ai-developments/new-ai-breakthroughs-ai-trends.html",
-      "url_normalized": "https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/blogs/pulse-check-series-latest-ai-developments/new-ai-breakthroughs-ai-trends.html",
-      "title": "Three new AI breakthroughs shaping 2026: AI trends",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-03-02"
-    },
-    {
-      "url": "https://www.goodwood.com/grr/event-coverage/festival-of-speed/the-top-10-tech-breakthroughs-for-2026/",
-      "url_normalized": "https://www.goodwood.com/grr/event-coverage/festival-of-speed/the-top-10-tech-breakthroughs-for-2026",
-      "title": "The top 10 tech breakthroughs for 2026",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-03-02"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=wjJG8ga63lQ",
-      "url_normalized": "https://www.youtube.com/watch?v=wjJG8ga63lQ",
-      "title": "Top 15 New Breakthrough Technologies of 2026 (According to MIT)",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-03-02"
-    },
-    {
-      "url": "https://joshbersin.com/podcast/2026-the-year-of-enterprise-ai-three-big-issues-to-consider/",
-      "url_normalized": "https://joshbersin.com/podcast/2026-the-year-of-enterprise-ai-three-big-issues-to-consider",
-      "title": "2026, The Year of Enterprise AI. Three Big Issues To Consider.",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-03-02"
-    },
-    {
-      "url": "https://www.linkedin.com/pulse/enterprise-ai-agents-use-cases-benefits-2026-iapp-technologies-llp-nog7c",
-      "url_normalized": "https://www.linkedin.com/pulse/enterprise-ai-agents-use-cases-benefits-2026-iapp-technologies-llp-nog7c",
-      "title": "Enterprise AI Agents Use Cases and Benefits 2026",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-03-02"
-    },
-    {
-      "url": "https://www.vellum.ai/blog/ai-transformation-playbook",
-      "url_normalized": "https://www.vellum.ai/blog/ai-transformation-playbook",
-      "title": "Complete AI Business Transformation Playbook",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-03-02"
-    },
-    {
-      "url": "https://ai.wharton.upenn.edu/wp-content/uploads/2025/10/2025-Wharton-GBK-AI-Adoption-Report_Full-Report.pdf",
-      "url_normalized": "https://ai.wharton.upenn.edu/wp-content/uploads/2025/10/2025-Wharton-GBK-AI-Adoption-Report_Full-Report.pdf",
-      "title": "Gen AI Fast-Tracks Into the Enterprise - Wharton Human-AI Research",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-03-02"
-    },
-    {
-      "url": "https://www.linkedin.com/pulse/enterprise-ai-agents-use-cases-benefits-2026-iapp-technologies-llp-nog7c",
-      "url_normalized": "https://www.linkedin.com/pulse/enterprise-ai-agents-use-cases-benefits-2026-iapp-technologies-llp-nog7c",
-      "title": "Enterprise AI Agents Use Cases and Benefits 2026",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-03-02"
-    },
-    {
-      "url": "https://www.deltek.com/en/blog/10-key-consulting-moves",
-      "url_normalized": "https://www.deltek.com/en/blog/10-key-consulting-moves",
-      "title": "2026 Consulting Trends: Turning Uncertainty and AI Disruption into Opportunities",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-03-02"
-    },
-    {
-      "url": "https://www.flowcase.com/blog/12-best-ai-tools-for-engineers",
-      "url_normalized": "https://www.flowcase.com/blog/12-best-ai-tools-for-engineers",
-      "title": "12 Best AI Tools for Engineers in 2026",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-03-02"
-    },
-    {
-      "url": "https://mashable.com/article/top-tech-jobs-ai-2026",
-      "url_normalized": "https://mashable.com/article/top-tech-jobs-ai-2026",
-      "title": "Top tech jobs 2026: 5 of the fastest-growing tech, AI careers",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-03-02"
-    },
-    {
-      "url": "https://news.linkedin.com/2026/Skills-on-the-rise-2026",
-      "url_normalized": "https://news.linkedin.com/2026/Skills-on-the-rise-2026",
-      "title": "Skills on the Rise: The Fastest-Growing Skills in 2026",
-      "category_id": "career_development",
-      "sent_date": "2026-03-02"
-    },
-    {
-      "url": "https://www.usaii.org/ai-insights/why-2026-is-the-right-time-to-learn-ai-and-build-future-ready-skills",
-      "url_normalized": "https://www.usaii.org/ai-insights/why-2026-is-the-right-time-to-learn-ai-and-build-future-ready-skills",
-      "title": "Why 2026 is the Right Time to Learn AI and Build Future-Ready Skills",
-      "category_id": "career_development",
-      "sent_date": "2026-03-02"
-    },
-    {
-      "url": "https://www.wbscodingschool.com/blog/ai-skills/",
-      "url_normalized": "https://www.wbscodingschool.com/blog/ai-skills",
-      "title": "AI skills: 5 competencies for your job security in 2026",
-      "category_id": "career_development",
-      "sent_date": "2026-03-02"
-    },
     {
       "url": "https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026",
       "url_normalized": "https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026",
@@ -827,6 +715,104 @@
       "title": "Professional Development Courses for US Workers: Skills for 2026",
       "category_id": "career_development",
       "sent_date": "2026-05-25"
+    },
+    {
+      "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
+      "url_normalized": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026",
+      "title": "What's next in AI: 7 trends to watch in 2026 - Microsoft Source",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-06-01"
+    },
+    {
+      "url": "https://dtecheducate.com/latest-ai-breakthroughs-in-2026/",
+      "url_normalized": "https://dtecheducate.com/latest-ai-breakthroughs-in-2026",
+      "title": "Latest AI Breakthroughs in 2026 - dtecheducate",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-06-01"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6sF7vrZBfGs",
+      "url_normalized": "https://www.youtube.com/watch?v=6sF7vrZBfGs",
+      "title": "6 AI Breakthroughs That Will Define 2026 - YouTube",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-06-01"
+    },
+    {
+      "url": "https://alicelabs.ai/en/insights/ai-implementation-case-studies",
+      "url_normalized": "https://alicelabs.ai/en/insights/ai-implementation-case-studies",
+      "title": "AI Implementation Case Studies: Real Enterprise Results 2026",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-06-01"
+    },
+    {
+      "url": "https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html",
+      "url_normalized": "https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html",
+      "title": "The State of AI in the Enterprise - 2026 AI report | Deloitte US",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-06-01"
+    },
+    {
+      "url": "https://www.sigmainfo.net/blog/ai-powered-business-applications-real-world-enterprise-use-cases-across-industries/",
+      "url_normalized": "https://www.sigmainfo.net/blog/ai-powered-business-applications-real-world-enterprise-use-cases-across-industries",
+      "title": "AI Business Applications: Enterprise Use Cases in 2026",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-06-01"
+    },
+    {
+      "url": "https://futransolutions.com/blog/choosing-the-right-ai-use-cases-linking-ai-to-decisions-that-matter-2026/",
+      "url_normalized": "https://futransolutions.com/blog/choosing-the-right-ai-use-cases-linking-ai-to-decisions-that-matter-2026",
+      "title": "AI Use Cases 2026: A Framework for Impact & Scale - Futran Solutions",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-06-01"
+    },
+    {
+      "url": "https://productschool.com/blog/artificial-intelligence/ai-business-use-cases",
+      "url_normalized": "https://productschool.com/blog/artificial-intelligence/ai-business-use-cases",
+      "title": "15 AI Business Use Cases in 2026 + Real-World Examples",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-06-01"
+    },
+    {
+      "url": "https://www.csemag.com/engineering-trends-to-watch-in-2026/",
+      "url_normalized": "https://www.csemag.com/engineering-trends-to-watch-in-2026",
+      "title": "Engineering trends to watch in 2026 - Consulting",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-06-01"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Pagd9kNIg9o",
+      "url_normalized": "https://www.youtube.com/watch?v=Pagd9kNIg9o",
+      "title": "2026 Will Be The Golden Age of AI Consulting (Here's Why) - YouTube",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-06-01"
+    },
+    {
+      "url": "https://gogloby.com/insights/best-ai-consulting-companies/",
+      "url_normalized": "https://gogloby.com/insights/best-ai-consulting-companies",
+      "title": "12 Best AI Consulting Companies in 2026: Top Firms Compared",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-06-01"
+    },
+    {
+      "url": "https://www.orange.com/en/whats-up/ai-jobs-2026-skills-training-and-career-opportunities",
+      "url_normalized": "https://www.orange.com/en/whats-up/ai-jobs-2026-skills-training-and-career-opportunities",
+      "title": "AI jobs in 2026: skills, training, and career opportunities - Orange.com",
+      "category_id": "career_development",
+      "sent_date": "2026-06-01"
+    },
+    {
+      "url": "https://www.usaii.org/ai-insights/how-do-you-transition-into-an-ai-career-a-2026-professional-guide",
+      "url_normalized": "https://www.usaii.org/ai-insights/how-do-you-transition-into-an-ai-career-a-2026-professional-guide",
+      "title": "How Do You Transition into an AI Career: A 2026 Professional Guide",
+      "category_id": "career_development",
+      "sent_date": "2026-06-01"
+    },
+    {
+      "url": "https://www.devex.com/news/the-ai-skills-global-development-professionals-need-in-2026-111847",
+      "url_normalized": "https://www.devex.com/news/the-ai-skills-global-development-professionals-need-in-2026-111847",
+      "title": "The AI skills global development professionals need in 2026 - Devex",
+      "category_id": "career_development",
+      "sent_date": "2026-06-01"
     }
   ]
 }
