@@ -1,112 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-01T06:09:55.911686",
+  "last_updated": "2026-06-08T05:57:01.764085",
   "articles": [
-    {
-      "url": "https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026",
-      "url_normalized": "https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026",
-      "title": "Stanford AI Experts Predict What Will Happen in 2026",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-03-09"
-    },
-    {
-      "url": "https://www.forbes.com/sites/sylvainduranton/2026/01/30/the-next-phase-of-ai-takes-shape-in-2026/",
-      "url_normalized": "https://www.forbes.com/sites/sylvainduranton/2026/01/30/the-next-phase-of-ai-takes-shape-in-2026",
-      "title": "The Next Phase Of AI Takes Shape In 2026 - Forbes",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-03-09"
-    },
-    {
-      "url": "https://python.plainenglish.io/top-7-breakthrough-ai-technologies-to-watch-in-2026-11cecf79077f",
-      "url_normalized": "https://python.plainenglish.io/top-7-breakthrough-ai-technologies-to-watch-in-2026-11cecf79077f",
-      "title": "Top 7 Breakthrough AI Technologies to Watch in 2026",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-03-09"
-    },
-    {
-      "url": "https://medium.com/@natishalom/the-ai-leap-of-2026-5-surprising-realities-from-the-frontier-of-intelligence-28eec1f445ef",
-      "url_normalized": "https://medium.com/@natishalom/the-ai-leap-of-2026-5-surprising-realities-from-the-frontier-of-intelligence-28eec1f445ef",
-      "title": "The AI Leap of 2026: 5 Surprising Realities From the Frontier of ...",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-03-09"
-    },
-    {
-      "url": "https://codewave.com/insights/future-ai-trends-2026-enterprise-use-cases/",
-      "url_normalized": "https://codewave.com/insights/future-ai-trends-2026-enterprise-use-cases",
-      "title": "7 AI Trends in 2026: The Future of AI Enterprises Must Prepare For",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-03-09"
-    },
-    {
-      "url": "https://www.linkedin.com/pulse/ai-2026-beyond-what-enterprises-must-do-stay-competitive-r0kjc",
-      "url_normalized": "https://www.linkedin.com/pulse/ai-2026-beyond-what-enterprises-must-do-stay-competitive-r0kjc",
-      "title": "AI in 2026 and Beyond: What Enterprises Must Do to Stay Competitive",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-03-09"
-    },
-    {
-      "url": "https://www.linkedin.com/pulse/ai-transformation-2026-26-predictions-redefining-cx-ex-saltz-gulko-twspf",
-      "url_normalized": "https://www.linkedin.com/pulse/ai-transformation-2026-26-predictions-redefining-cx-ex-saltz-gulko-twspf",
-      "title": "AI Transformation 2026: 26 Predictions Redefining CX, EX, Design",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-03-09"
-    },
-    {
-      "url": "https://rtslabs.com/enterprise-ai-strategy/",
-      "url_normalized": "https://rtslabs.com/enterprise-ai-strategy",
-      "title": "Enterprise AI Strategy: A Complete Blueprint for 2026 (Frameworks)",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-03-09"
-    },
-    {
-      "url": "https://www.zignuts.com/blog/ai-project-management-case-studies-success-stories",
-      "url_normalized": "https://www.zignuts.com/blog/ai-project-management-case-studies-success-stories",
-      "title": "AI in Project Management: 2026 Case Studies & Successes",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-03-09"
-    },
-    {
-      "url": "https://www.cognixia.com/blog/ai-engineering-skills-companies-will-prioritize-in-2026/",
-      "url_normalized": "https://www.cognixia.com/blog/ai-engineering-skills-companies-will-prioritize-in-2026",
-      "title": "AI Engineering Skills Companies Will Prioritize in 2026",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-03-09"
-    },
-    {
-      "url": "https://www.cybersecurityintelligence.com/blog/what-to-look-for-in-an-engineering-and-ai-consulting-partner-in-2026-9165.html",
-      "url_normalized": "https://www.cybersecurityintelligence.com/blog/what-to-look-for-in-an-engineering-and-ai-consulting-partner-in-2026-9165.html",
-      "title": "What To Look for In An Engineering & AI Consulting Partner In 2026",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-03-09"
-    },
-    {
-      "url": "https://addepto.com/blog/how-to-choose-the-right-ai-consulting-company-in-2026/",
-      "url_normalized": "https://addepto.com/blog/how-to-choose-the-right-ai-consulting-company-in-2026",
-      "title": "How to Choose the Right AI Consulting Company in 2026",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-03-09"
-    },
-    {
-      "url": "https://aiskills.eu/news/the-future-of-ai-skills-what-to-learn-in-2026/",
-      "url_normalized": "https://aiskills.eu/news/the-future-of-ai-skills-what-to-learn-in-2026",
-      "title": "The future of AI skills: what to learn in 2026",
-      "category_id": "career_development",
-      "sent_date": "2026-03-09"
-    },
-    {
-      "url": "https://www.alignminds.com/top-ai-developer-skills-for-career-success-in-2026/",
-      "url_normalized": "https://www.alignminds.com/top-ai-developer-skills-for-career-success-in-2026",
-      "title": "Top AI Developer Skills for Career Success in 2026",
-      "category_id": "career_development",
-      "sent_date": "2026-03-09"
-    },
-    {
-      "url": "https://www.datacamp.com/resources/webinars/prepare-yourself-for-the-2026-ai-job-market",
-      "url_normalized": "https://www.datacamp.com/resources/webinars/prepare-yourself-for-the-2026-ai-job-market",
-      "title": "Prepare Yourself for the 2026 AI Job Market",
-      "category_id": "career_development",
-      "sent_date": "2026-03-09"
-    },
     {
       "url": "https://finance.yahoo.com/news/morgan-stanley-warns-ai-breakthrough-072000084.html",
       "url_normalized": "https://finance.yahoo.com/news/morgan-stanley-warns-ai-breakthrough-072000084.html",
@@ -813,6 +708,76 @@
       "title": "The AI skills global development professionals need in 2026 - Devex",
       "category_id": "career_development",
       "sent_date": "2026-06-01"
+    },
+    {
+      "url": "https://aibreakthroughawards.com/",
+      "url_normalized": "https://aibreakthroughawards.com",
+      "title": "AI Breakthrough Awards - Featured 2025 Winners",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-06-08"
+    },
+    {
+      "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1poo4of/what_will_2026_bring_in_terms_of_ai_development/",
+      "url_normalized": "https://www.reddit.com/r/ArtificialInteligence/comments/1poo4of/what_will_2026_bring_in_terms_of_ai_development",
+      "title": "What will 2026+ bring in terms of AI development? - Reddit Discussion",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-06-08"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
+      "url_normalized": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026",
+      "title": "2026 10 Things That Matter in AI Right Now | MIT Technology Review",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-06-08"
+    },
+    {
+      "url": "https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-predictions.html",
+      "url_normalized": "https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-predictions.html",
+      "title": "2026 AI Business Predictions - PwC",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-06-08"
+    },
+    {
+      "url": "https://www.ninetwothree.co/blog/ai-adoption-case-studies",
+      "url_normalized": "https://www.ninetwothree.co/blog/ai-adoption-case-studies",
+      "title": "8 Successful Enterprise AI Adoption Case Studies - NineTwoThree",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-06-08"
+    },
+    {
+      "url": "https://www.reddit.com/r/Top_AI_Companies/comments/1s41a5k/best_applied_ai_consulting_firms_for_production/",
+      "url_normalized": "https://www.reddit.com/r/Top_AI_Companies/comments/1s41a5k/best_applied_ai_consulting_firms_for_production",
+      "title": "Best Applied AI Consulting Firms for Production Deployment 2026",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-06-08"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/top-15-ai-consulting-companies-leading-future-innovation-sophie-henry-34rfc",
+      "url_normalized": "https://www.linkedin.com/pulse/top-15-ai-consulting-companies-leading-future-innovation-sophie-henry-34rfc",
+      "title": "Top 15 AI Consulting Companies Leading the Future of Innovation",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-06-08"
+    },
+    {
+      "url": "https://fmicorp.com/insights/thought-leadership/artificial-intelligence-for-engineering-and-construction-firms",
+      "url_normalized": "https://fmicorp.com/insights/thought-leadership/artificial-intelligence-for-engineering-and-construction-firms",
+      "title": "Artificial Intelligence for Engineering and Construction Firms",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-06-08"
+    },
+    {
+      "url": "https://events.educause.edu/ai",
+      "url_normalized": "https://events.educause.edu/ai",
+      "title": "AI Events and Trainings",
+      "category_id": "career_development",
+      "sent_date": "2026-06-08"
+    },
+    {
+      "url": "https://ecommerceparadise.com/best-online-courses-for-ai-in-2026-ranked-by-depth-practicality-and-career-impact/",
+      "url_normalized": "https://ecommerceparadise.com/best-online-courses-for-ai-in-2026-ranked-by-depth-practicality-and-career-impact",
+      "title": "Best Online Courses for AI in 2026: Ranked by Depth and Practicality",
+      "category_id": "career_development",
+      "sent_date": "2026-06-08"
     }
   ]
 }
