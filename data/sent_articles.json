@@ -1,63 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-15T06:30:59.220548",
+  "last_updated": "2026-06-22T06:31:39.128442",
   "articles": [
-    {
-      "url": "https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/",
-      "url_normalized": "https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026",
-      "title": "10 Breakthrough Technologies 2026",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-03-23"
-    },
-    {
-      "url": "https://firstlinesoftware.com/blog/10-ai-use-cases-that-will-transform-2026-and-how-organizations-can-prepare-today/",
-      "url_normalized": "https://firstlinesoftware.com/blog/10-ai-use-cases-that-will-transform-2026-and-how-organizations-can-prepare-today",
-      "title": "10 AI Use Cases That Will Transform 2026 - First Line Software",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-03-23"
-    },
-    {
-      "url": "https://www.deloitte.com/us/en/insights/industry/engineering-and-construction/engineering-and-construction-industry-outlook.html",
-      "url_normalized": "https://www.deloitte.com/us/en/insights/industry/engineering-and-construction/engineering-and-construction-industry-outlook.html",
-      "title": "2026 Engineering and Construction Industry Outlook",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-03-23"
-    },
-    {
-      "url": "https://agathon.ai/insights/best-ai-consultancies-for-2026-navigating-the-agentic-era",
-      "url_normalized": "https://agathon.ai/insights/best-ai-consultancies-for-2026-navigating-the-agentic-era",
-      "title": "Best AI consultancies for 2026: navigating the agentic era",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-03-23"
-    },
-    {
-      "url": "https://www.reddit.com/r/AppBusiness/comments/1rrmox3/10_applied_ai_consulting_firms_worth_looking_at/",
-      "url_normalized": "https://www.reddit.com/r/AppBusiness/comments/1rrmox3/10_applied_ai_consulting_firms_worth_looking_at",
-      "title": "10 Applied AI Consulting Firms Worth Looking At in 2026",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-03-23"
-    },
-    {
-      "url": "https://www.knowledgecity.com/blog/the-ai-skills-your-workforce-actually-needs-in-2026/",
-      "url_normalized": "https://www.knowledgecity.com/blog/the-ai-skills-your-workforce-actually-needs-in-2026",
-      "title": "The AI Skills Your Workforce Actually Needs in 2026 - KnowledgeCity",
-      "category_id": "career_development",
-      "sent_date": "2026-03-23"
-    },
-    {
-      "url": "https://www.icertglobal.com/blog/how-to-learn-ai-and-deep-learning-in-2026-guide",
-      "url_normalized": "https://www.icertglobal.com/blog/how-to-learn-ai-and-deep-learning-in-2026-guide",
-      "title": "How to Learn AI and Deep Learning in 2026: Skills, Tools, and Career Paths",
-      "category_id": "career_development",
-      "sent_date": "2026-03-23"
-    },
-    {
-      "url": "https://techresearchonline.com/blog/ai-upskilling-courses-professionals-2026/",
-      "url_normalized": "https://techresearchonline.com/blog/ai-upskilling-courses-professionals-2026",
-      "title": "Top AI Upskilling Courses for Professionals in 2026",
-      "category_id": "career_development",
-      "sent_date": "2026-03-23"
-    },
     {
       "url": "https://washingtondc.jhu.edu/news/ai-in-2026/",
       "url_normalized": "https://washingtondc.jhu.edu/news/ai-in-2026",
@@ -750,6 +694,62 @@
       "title": "12 AI Skills to Master in 2026 for Career Advancement - LinkedIn",
       "category_id": "career_development",
       "sent_date": "2026-06-15"
+    },
+    {
+      "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rsrji4/morgan_stanley_warns_an_ai_breakthrough_is_coming/",
+      "url_normalized": "https://www.reddit.com/r/ArtificialInteligence/comments/1rsrji4/morgan_stanley_warns_an_ai_breakthrough_is_coming",
+      "title": "Morgan Stanley warns an AI breakthrough Is coming in 2026 — and ...",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-06-22"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/morgan-stanley-warns-ai-breakthrough-072000084.html",
+      "url_normalized": "https://finance.yahoo.com/news/morgan-stanley-warns-ai-breakthrough-072000084.html",
+      "title": "Morgan Stanley warns an AI breakthrough Is coming in 2026",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-06-22"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/390474125_Enterprise_AI_Transformation_Case_Studies_on_Successful_Implementation_and_ROI",
+      "url_normalized": "https://www.researchgate.net/publication/390474125_Enterprise_AI_Transformation_Case_Studies_on_Successful_Implementation_and_ROI",
+      "title": "Enterprise AI Transformation Case Studies on Successful ...",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-06-22"
+    },
+    {
+      "url": "https://stellium.consulting/articles/news/2026-ai-trends/",
+      "url_normalized": "https://stellium.consulting/articles/news/2026-ai-trends",
+      "title": "2026 AI Trends: What Enterprises Need to Know | Stellium Consulting",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-06-22"
+    },
+    {
+      "url": "https://www.commercepundit.com/blog/top-10-ai-consulting-companies-in-2026/",
+      "url_normalized": "https://www.commercepundit.com/blog/top-10-ai-consulting-companies-in-2026",
+      "title": "Top 10 AI Consulting Companies in 2026 for Businesses",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-06-22"
+    },
+    {
+      "url": "https://www.bcg.com/publications/2026/ai-will-reshape-more-jobs-than-it-replaces",
+      "url_normalized": "https://www.bcg.com/publications/2026/ai-will-reshape-more-jobs-than-it-replaces",
+      "title": "AI Will Reshape More Jobs Than It Replaces | BCG",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-06-22"
+    },
+    {
+      "url": "https://addepto.com/blog/what-is-ai-consulting-in-2026/",
+      "url_normalized": "https://addepto.com/blog/what-is-ai-consulting-in-2026",
+      "title": "What is AI Consulting in 2026? - Addepto",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-06-22"
+    },
+    {
+      "url": "https://www.disco.co/blog/ai-tools-for-professional-development-2026",
+      "url_normalized": "https://www.disco.co/blog/ai-tools-for-professional-development-2026",
+      "title": "Top 9 AI Tools for Professional Development in 2026 (Disco ...",
+      "category_id": "career_development",
+      "sent_date": "2026-06-22"
     }
   ]
 }
