@@ -1,70 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-22T06:31:39.128442",
+  "last_updated": "2026-06-29T05:54:03.955140",
   "articles": [
-    {
-      "url": "https://washingtondc.jhu.edu/news/ai-in-2026/",
-      "url_normalized": "https://washingtondc.jhu.edu/news/ai-in-2026",
-      "title": "AI predictions for 2026 - Hopkins Bloomberg Center",
-      "category_id": "global_ai_trends",
-      "sent_date": "2026-03-30"
-    },
-    {
-      "url": "https://hyqoo.com/artificial-intelligence/ai-in-2026",
-      "url_normalized": "https://hyqoo.com/artificial-intelligence/ai-in-2026",
-      "title": "AI in 2026: 7 Transformations Every Enterprise Should Prepare For",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-03-30"
-    },
-    {
-      "url": "https://www.trigyn.com/insights/ai-strategy-2026-vision-enterprise-scale-execution",
-      "url_normalized": "https://www.trigyn.com/insights/ai-strategy-2026-vision-enterprise-scale-execution",
-      "title": "AI Strategy in 2026: From Vision to Enterprise-Scale Execution",
-      "category_id": "enterprise_applications",
-      "sent_date": "2026-03-30"
-    },
-    {
-      "url": "https://www.linkedin.com/pulse/ai-consulting-2026-how-strengthening-business-services-parag-asthana-s1qvc",
-      "url_normalized": "https://www.linkedin.com/pulse/ai-consulting-2026-how-strengthening-business-services-parag-asthana-s1qvc",
-      "title": "AI in Consulting 2026: How AI Is Strengthening Business Cons",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-03-30"
-    },
-    {
-      "url": "https://www.autodesk.com/blogs/construction/2026-ai-trends-25-experts-share-insights/",
-      "url_normalized": "https://www.autodesk.com/blogs/construction/2026-ai-trends-25-experts-share-insights",
-      "title": "2026 AI Construction Trends: 25+ Experts Share Insights",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-03-30"
-    },
-    {
-      "url": "https://www.refontelearning.com/blog/ai-engineering-in-2026-trends-skills-and-career-opportunities",
-      "url_normalized": "https://www.refontelearning.com/blog/ai-engineering-in-2026-trends-skills-and-career-opportunities",
-      "title": "AI Engineering in 2026: Trends, Skills, and Career Opportunities",
-      "category_id": "consulting_industry",
-      "sent_date": "2026-03-30"
-    },
-    {
-      "url": "https://www.linkedin.com/pulse/future-proof-your-career-top-ai-skills-master-2026-simplilearn-nikfc",
-      "url_normalized": "https://www.linkedin.com/pulse/future-proof-your-career-top-ai-skills-master-2026-simplilearn-nikfc",
-      "title": "Future-Proof Your Career: Top AI Skills to Master in 2026",
-      "category_id": "career_development",
-      "sent_date": "2026-03-30"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=gdgZ-X87Bwg",
-      "url_normalized": "https://www.youtube.com/watch?v=gdgZ-X87Bwg",
-      "title": "AI Is Replacing Jobs - Here Are the Skills You Need in 2026",
-      "category_id": "career_development",
-      "sent_date": "2026-03-30"
-    },
-    {
-      "url": "https://trainingindustry.com/press-release/artificial-intelligence/build-your-ai-skills-for-2026-general-assembly-launches-four-new-ai-courses/",
-      "url_normalized": "https://trainingindustry.com/press-release/artificial-intelligence/build-your-ai-skills-for-2026-general-assembly-launches-four-new-ai-courses",
-      "title": "Build Your AI Skills for 2026: General Assembly Launches Four New AI Courses",
-      "category_id": "career_development",
-      "sent_date": "2026-03-30"
-    },
     {
       "url": "https://claritusconsulting.com/insights-resources/blogs/ai-transformation-in-2026/",
       "url_normalized": "https://claritusconsulting.com/insights-resources/blogs/ai-transformation-in-2026",
@@ -750,6 +687,69 @@
       "title": "Top 9 AI Tools for Professional Development in 2026 (Disco ...",
       "category_id": "career_development",
       "sent_date": "2026-06-22"
+    },
+    {
+      "url": "https://setr.stanford.edu/technology/artificial-intelligence/2026",
+      "url_normalized": "https://setr.stanford.edu/technology/artificial-intelligence/2026",
+      "title": "Artificial Intelligence - Stanford Emerging Technology Review",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-06-29"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SCLHfhu5ZmM&vl=en",
+      "url_normalized": "https://www.youtube.com/watch?v=SCLHfhu5ZmM&vl=en",
+      "title": "Top 15 New Discoveries MADE By AI (2026) - YouTube",
+      "category_id": "global_ai_trends",
+      "sent_date": "2026-06-29"
+    },
+    {
+      "url": "https://firstlinesoftware.com/blog/10-ai-use-cases-that-will-transform-2026-and-how-organizations-can-prepare-today/",
+      "url_normalized": "https://firstlinesoftware.com/blog/10-ai-use-cases-that-will-transform-2026-and-how-organizations-can-prepare-today",
+      "title": "10 AI Use Cases That Will Transform 2026 - First Line Software",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-06-29"
+    },
+    {
+      "url": "https://acuvate.com/blog/enterprise-ai-use-cases/",
+      "url_normalized": "https://acuvate.com/blog/enterprise-ai-use-cases",
+      "title": "25 Enterprise AI Use Cases Every CIO Should Prioritize in 2026",
+      "category_id": "enterprise_applications",
+      "sent_date": "2026-06-29"
+    },
+    {
+      "url": "https://www.classicinformatics.com/blog/top-ai-consulting-companies",
+      "url_normalized": "https://www.classicinformatics.com/blog/top-ai-consulting-companies",
+      "title": "Top 10 AI Consulting Companies 2026 - Classic Informatics",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-06-29"
+    },
+    {
+      "url": "https://winder.ai/ai-consulting-costs-2026-hourly-rates-poc-production/",
+      "url_normalized": "https://winder.ai/ai-consulting-costs-2026-hourly-rates-poc-production",
+      "title": "AI Consulting Costs in 2026: Hourly Rates, POC Budgets, and What ...",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-06-29"
+    },
+    {
+      "url": "https://firstlinesoftware.com/blog/ai-software-development-2026-2035/",
+      "url_normalized": "https://firstlinesoftware.com/blog/ai-software-development-2026-2035",
+      "title": "AI Software Development: What Changes from 2026 to 2035",
+      "category_id": "consulting_industry",
+      "sent_date": "2026-06-29"
+    },
+    {
+      "url": "https://www.icertglobal.com/blog/how-to-learn-ai-and-deep-learning-in-2026-guide",
+      "url_normalized": "https://www.icertglobal.com/blog/how-to-learn-ai-and-deep-learning-in-2026-guide",
+      "title": "How to Learn AI and Deep Learning in 2026 Guide - iCert Global",
+      "category_id": "career_development",
+      "sent_date": "2026-06-29"
+    },
+    {
+      "url": "https://www.facebook.com/groups/1219112775437710/posts/1874147253267589/",
+      "url_normalized": "https://www.facebook.com/groups/1219112775437710/posts/1874147253267589",
+      "title": "AI in professional development for future work - Facebook",
+      "category_id": "career_development",
+      "sent_date": "2026-06-29"
     }
   ]
 }
